@@ -28,7 +28,7 @@ python visual/viz.py
 ```
 Note: please change your state file path in /visual/viz.py.
 
-Refer:
+## Refer:
 
 [another repo of senet-densenet](https://github.com/zhouyuangan/SE_DenseNet)
 
